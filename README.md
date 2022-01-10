@@ -1,2 +1,6 @@
 # LearningGit
-learn git basics and use
+
+Learning how to use Git.
+
+Another repo: 
+https://github.com/Nilaksh2410 
