@@ -5,7 +5,8 @@
 3. The repository on GitHub and your local machine now has one different file. It should be noted
    that the change you made locally is still not available on GitHub page.
 4. To see the change on your GitHub account, you have to PUSH the file.
-5. Steps: First, we will add the file to the staging area(a check-in point before finalizing and 
+5. Steps:
+   5.1. First, we will add the file to the staging area(a check-in point before finalizing and 
    pushing the content on the GitHub page) using "git add" command. 
-   Second, we have to commit the change using "git commit" command.
-   Third, we push the file on to the cloud i.e nothing but your GitHub page using "git push" command. 
+   5.2. Second, we have to commit the change using "git commit" command.
+   5.3. Third, we push the file on to the cloud i.e nothing but your GitHub page using "git push" command. 
