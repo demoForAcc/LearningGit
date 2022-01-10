@@ -1,0 +1,3 @@
+- Now we have created a file on GitHub web page. 
+- The next step involves saving i.e. in git language commit the changes from the options below.
+- After the commit, the new file is created. 
